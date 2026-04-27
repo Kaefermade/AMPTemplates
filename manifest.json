@@ -1,9 +1,9 @@
 {
-	"id": "1213541068",
+	"id": "I-add-a-random-id",
 	"authors": ["CubeCoders Limited", "AMP Community"],
 	"origin": "https://github.com/Kaefermade/AMPTemplates.git",
 	"url": "https://github.com/Kaefermade/AMPTemplates",
 	"imagefile": "",
-	"prefix": "",
+	"prefix": "Kaefer",
 	"repotype": "AppTemplates"
 }
