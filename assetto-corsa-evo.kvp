@@ -1,4 +1,5 @@
 App.AdminMethod=STDIO
+App.SteamUpdateAnonymousLogin=False
 App.ApplicationReadyMode=Immediate
 App.BaseDirectory=./assetto-corsa-evo/4564210/
 App.CommandLineArgs={{$PlatformArgs}} {{$FormattedArgs}}
