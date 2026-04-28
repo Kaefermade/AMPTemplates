@@ -15,7 +15,6 @@ App.HasWritableConsole=true
 App.RapidStartup=false
 App.RootDir=./assetto-corsa-evo/
 App.UpdateSources=@IncludeJson[assetto-corsa-evoupdates.json]
-App.UpdateSources=[{"UpdateStageName": "SteamCMD Download","UpdateSourcePlatform": "All", "UpdateSource": "SteamCMD", "UpdateSourceData": "4564210"}]
 App.WorkingDir=4564210/
 App.LinuxCommandLineArgs="./AssettoCorsaEVOServer.exe"
 App.MonitorChildProcessName=^{{$WineBaseDir}}AssettoCorsaEVOServer\.exe.*$
