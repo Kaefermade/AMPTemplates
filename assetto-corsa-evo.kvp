@@ -38,5 +38,5 @@ Meta.EndpointURIFormat=
 Meta.MinAMPVersion=2.5.0.6
 Meta.AppConfigId=65798f1d-b6bb-4811-bf5f-04792833f6d9
 Meta.OS=Windows, Linux
-Meta.Arch=x64
+Meta.Arch=x84_64
 Meta.URL=https://steamdb.info/app/3058630/
